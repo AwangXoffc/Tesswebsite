@@ -1,0 +1,60 @@
+# Dependencies
+node_modules/
+/.pnp
+.pnp.js
+
+# Testing
+/coverage
+
+# Production
+dist/
+build/
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Supabase
+.supabase/
+
+# Android
+.pixelLabbackups/
+.pmtemp/
+.trashBin/
+.trashBin_File/
+Alarms/
+Android/
+ApkEditor/
+Audiobooks/
+autodep/
+AwangVS/
+DCIM/
+Documents/
+Download/
+fonts/
+gacor/
+GBWhatsApp/
+Movies/
+MT2/
+Music/
+Notifications/
+Pictures/
